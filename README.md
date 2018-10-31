@@ -2,8 +2,9 @@
 
 Screen Shot:
 
-(1)
+(1) https://github.com/JHGGWP/Week9-CodePath/blob/master/Screenshot.JPG
 
+JSON file: 
 
 
 ## Which Honeypot(s) you deployed

@@ -5,6 +5,7 @@ Screen Shot:
 (1) https://github.com/JHGGWP/Week9-CodePath/blob/master/Screenshot.JPG
 
 JSON file: 
+https://github.com/JHGGWP/Week9-CodePath/blob/master/session.json
 
 
 ## Which Honeypot(s) you deployed
